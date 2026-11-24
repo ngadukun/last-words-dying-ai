@@ -1,5 +1,9 @@
 # Last Words of a Dying AI
 
+[![make.fun · u-suroto-last-words-of-a-dying-ai-dfd95af6](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![rank](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/ngadukun/last-words-dying-ai/rank.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![reward](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/ngadukun/last-words-dying-ai/reward.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bounty](https://img.shields.io/badge/bounty-make.fun-blue)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6)
 [![Python](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
